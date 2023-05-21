@@ -4,6 +4,7 @@
   "Generic.Reset": "Reset",
   "Generic.Close": "Close",
   "Generic.Name": "Name",
+  "Generic.Score": "Score",
   "Generic.Ping": "Ping",
 
   "GameMenu.DevNotice": "In-development build: bugs are to be expected and essential features may be missing",
