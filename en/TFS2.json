@@ -45,6 +45,8 @@
   "GameSettings.Group.Sound": "Sound",
   "GameSettings.Group.Misc": "Miscellaneous",
   "GameSettings.Setting.ShowTextChat": "Show in-game text chat",
+  "GameSettings.Setting.SayTextTime": "Time before message starts fading out",
+  "GameSettings.Setting.SayTextFadeTime": "Message fade-out transition time",
   "GameSettings.Setting.ViewmodelFov": "Viewmodel field of view",
   "GameSettings.Setting.AutoReload": "Automatically reload weapons when you're not firing",
   "GameSettings.Setting.FastWeaponSwitch": "Fast weapon switch",
