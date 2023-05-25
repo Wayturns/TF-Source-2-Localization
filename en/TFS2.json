@@ -7,6 +7,9 @@
   "Generic.Score": "Score",
   "Generic.Ping": "Ping",
 
+  "GameState.WaitingForPlayers": "Waiting for Players",
+  "GameState.Setup": "Setup",
+
   "FreezeCamera.KillerHeader": "You were killed by",
   "FreezeCamera.KillerHeaderDead": "You were killed by the late",
   "FreezeCamera.NonPlayerName": "The Environment",
