@@ -7,6 +7,10 @@
   "Generic.Score": "Score",
   "Generic.Ping": "Ping",
 
+  "FreezeCamera.KillerHeader": "You were killed by",
+  "FreezeCamera.KillerHeaderDead": "You were killed by the late",
+  "FreezeCamera.NonPlayerName": "The Environment",
+
   "GameMenu.DevNotice": "In-development build: bugs are to be expected and essential features may be missing",
   "GameMenu.Title.Game": "Game",
   "GameMenu.Title.Customize": "Customize",
