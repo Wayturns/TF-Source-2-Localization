@@ -3,6 +3,7 @@
   "Generic.Cancel": "Cancel",
   "Generic.Reset": "Reset",
   "Generic.Close": "Close",
+  "Generic.Back": "Back",
   "Generic.Name": "Name",
   "Generic.Score": "Score",
   "Generic.Ping": "Ping",
@@ -46,6 +47,8 @@
   "GameScoreboard.Stat.Damage": "Damage",
 
   "GameSettings.Title.Settings": "Settings",
+  "GameSettings.Inputs": "Inputs",
+  "GameSettings.ClientSettings": "Advanced Settings",
   "GameSettings.Reset": "Reset Settings",
   "GameSettings.Group.Social": "Social",
   "GameSettings.Group.Combat": "Combat",
