@@ -8,6 +8,9 @@
   "Generic.Score": "Score",
   "Generic.Ping": "Ping",
 
+  "Credits.Header": "Credits",
+  "Credits.Button": "Show Credits",
+
   "GameState.WaitingForPlayers": "Waiting for Players",
   "GameState.Setup": "Setup",
 
