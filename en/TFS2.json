@@ -30,8 +30,9 @@
   "GameMenu.ChangeClass": "Change Class",
   "GameMenu.SwitchTeam": "Switch Team",
   "GameMenu.Blog.ReadMore": "Read more on tfsource2.com",
-  "GameMenu.QuitDialog.Title": "Are you sure?",
-  "GameMenu.QuitDialog.Description": "Are you really sure you want to quit this gamemode? Think about the consequences of you performing this action. If you quit, you will not be able to play it again. This is your only opportunity to make a choice. Think wisely.",
+  "GameMenu.Disconnect": "Disconnect",
+  "GameMenu.DisconnectDialog.Title": "Are you sure?",
+  "GameMenu.DisconnectDialog.Description": "Are you sure you want to leave this server? The outcome of the game might be impacted by you leaving the server. Think wisely.",
 
   "GameScoreboard.Stat.Kills": "Kills",
   "GameScoreboard.Stat.Deaths": "Deaths",
