@@ -16,7 +16,7 @@
 
   "FreezeCamera.KillerHeader": "Ubio te",
   "FreezeCamera.KillerHeaderDead": "Ubio te mrtvi",
-  "FreezeCamera.NonPlayerName": "The Environment",
+  "FreezeCamera.NonPlayerName": "Okolina",
 
   "GameMenu.DevNotice": "In-development build: greške su za očekivati i bitne značajke mogu nedostajati",
   "GameMenu.Title.Game": "Igra",
@@ -34,7 +34,7 @@
   "GameMenu.DisconnectDialog.Title": "Jesi li siguran?",
   "GameMenu.DisconnectDialog.Description": "Jesi li siguran da želiš izači sa ovog servera? Rezultat igre će se možda promjeniti ako izađeš sa servera. Promisli mudro.",
 
-  "GameScoreboard.Stat.Kills": "Kills",
+  "GameScoreboard.Stat.Kills": "pobijeni",
   "GameScoreboard.Stat.Deaths": "Smrti",
   "GameScoreboard.Stat.Assists": "Assisti",
   "GameScoreboard.Stat.Destruction": "Uništenja",
